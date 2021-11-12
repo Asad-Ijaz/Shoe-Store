@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Shoe-Store/static/css/main.d38595e3.chunk.css",
+    "main.js": "/Shoe-Store/static/js/main.f0365012.chunk.js",
+    "main.js.map": "/Shoe-Store/static/js/main.f0365012.chunk.js.map",
+    "runtime-main.js": "/Shoe-Store/static/js/runtime-main.96d84dbc.js",
+    "runtime-main.js.map": "/Shoe-Store/static/js/runtime-main.96d84dbc.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Shoe-Store/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.11603f33.chunk.js": "/Shoe-Store/static/js/2.11603f33.chunk.js",
+    "static/js/2.11603f33.chunk.js.map": "/Shoe-Store/static/js/2.11603f33.chunk.js.map",
+    "static/js/3.0757e5e6.chunk.js": "/Shoe-Store/static/js/3.0757e5e6.chunk.js",
+    "static/js/3.0757e5e6.chunk.js.map": "/Shoe-Store/static/js/3.0757e5e6.chunk.js.map",
+    "index.html": "/Shoe-Store/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Shoe-Store/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.d38595e3.chunk.css.map": "/Shoe-Store/static/css/main.d38595e3.chunk.css.map",
+    "static/js/2.11603f33.chunk.js.LICENSE.txt": "/Shoe-Store/static/js/2.11603f33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96d84dbc.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.11603f33.chunk.js",
+    "static/css/main.d38595e3.chunk.css",
+    "static/js/main.f0365012.chunk.js"
+  ]
+}

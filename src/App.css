@@ -1,7 +1,111 @@
 .App {
   text-align: center;
 }
+.header{
+  height:100px !important;
+}
+.search .css-1480iag-MuiInputBase-root-MuiInput-root:before{
+   border-bottom: 1px solid white !important;
+}
+ 
+::placeholder{
+  color : black !important;
+}
+ 
+.headerLogo{
+  height:70px !important;
+  width:100% !important;
+  object-fit: none;
+}
+.Link {
+  text-decoration: none !important;
+  color:white !important;
+  margin-left:20px;
+}
+.home, .about{
+  width:100%;
+  height:100vh;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.img{
+  height:250px !important;
+}
+.pagination .css-g2z002-MuiSvgIcon-root-MuiPaginationItem-icon{
+  display:none !important;
+}
+.carticon{
+  width:100%;
+  position:relative;
+  right:0;
+}
+ .lists{
+   height:400px  !important;
+   overflow-y: scroll !important;
+ }
+.list{
+  justify-content: space-between !important;
+}
+.cartImg{
 
+  width:60px;
+  height:60px;
+}
+.carttotal{
+   
+  position: absolute;
+  bottom: 30px;
+  width: 100%;
+}
+.Quantity{
+  border:1px solid gray !important;
+  height:45px;
+  display:flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content:center;
+}
+.stackQuantity{
+  height:45px;
+  display:flex;
+  flex-direction:row !important;
+  align-items: center !important;
+  justify-content:center !important;
+}
+.input {
+  border:none;
+  width:30px;
+  height:30px;
+  text-align: center;
+}
+.input:focus {
+    outline: none !important;
+    border:none !important;
+    
+}
+.linkdrop{
+  text-decoration: none;
+  color:black;
+}
+.supCart{
+    background-color:red !important;
+}
+.cartHeadings{
+  margin-left:20px !important;
+}
+.cartHeadingtotal{
+  margin-left:20px !important;
+  margin-top:60px !important;
+}
+.dltItem{
+  cursor:pointer !important;
+}
+.singleimg{
+width:100% !important;
+}
+ 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -28,11 +132,3 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
